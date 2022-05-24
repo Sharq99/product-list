@@ -1,0 +1,25 @@
+{
+  "name": "product-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharq99/product-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharq99/product-list/issues"
+  },
+  "homepage": "https://github.com/Sharq99/product-list#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json-formatter-js": "^2.3.4"
+  }
+}
